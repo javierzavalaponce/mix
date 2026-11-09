@@ -1,0 +1,19 @@
+# Entorno virtual de Python
+.venv/
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de audio: no subir canciones al repositorio
+*.mp3
+
+# Archivos temporales y respaldos
+*.tmp
+*.bak~
+
+# Archivos de configuración locales
+.env
+
+
